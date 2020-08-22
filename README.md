@@ -1,1 +1,3 @@
-GPL
+# GPL
+
+GPL for OOSD.
